@@ -5,3 +5,6 @@
 
 <h2>Content Page</h2>
 <img src="content.png">
+
+<h1>Color Scheme</h1>
+<img src="color_scheme.png">
