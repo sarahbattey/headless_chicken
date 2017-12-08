@@ -50,6 +50,10 @@ header nav ul li a {
   border: 1px solid #E3C16F;
 }
 
+header nav ul li a:hover {
+color: #BAAB68;
+}
+
 .img1,.img2,.img3 {
   width: 200px;
   padding: 20px 20px 20px 50px;
@@ -59,6 +63,7 @@ header nav ul li a {
 
 p {
   font-family: Helvetica, sans-serif;
+  width: 75%;
 }
 
 a {
