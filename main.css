@@ -36,6 +36,7 @@ align-self: auto;
 header nav ul {
   display: flex;
   flex-direction: row;
+  list-style-type: none;
 }
 
 header nav ul li a {
