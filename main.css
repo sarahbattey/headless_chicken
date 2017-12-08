@@ -48,3 +48,20 @@ header nav ul li a {
   background-color: #946846;
   border: 1px solid #E3C16F;
 }
+
+.img1,.img2,.img3 {
+  width: 200px;
+  padding: 20px 20px 20px 50px;
+  float: left;
+  clear: left;
+}
+
+p {
+  font-family: Helvetica, sans-serif;
+}
+
+a {
+  font-family: Helvetica, sans-serif;
+  text-decoration: none;
+  color: green;
+}
